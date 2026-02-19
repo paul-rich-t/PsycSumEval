@@ -36,6 +36,6 @@ Each row corresponds to a Cochrane systematic review. The first column contains 
 | Dimension 6: Main Findings                                                 | 0 = missing; 1 = partial/inaccurate; 2 = accurate. Experts also specify corrective action: add, remove, modify, rewrite, or none. Reaoining required for 0/1 |
 | Dimension 7: Methodology                                                 | Same 0--2 scale and corrective action scheme as Main Findings.                                                                    |
 | Dimension 8: Conclusions                                                  | Same 0--2 scale and corrective action scheme as Main Findings.                                                                    |
-| Diension 9: Currency                                                      | 1 = date/status accurate; 0 = inaccurate or omitted; “No date reported” = absent in both abstract and summary.                    |
+| Dimension 9: Currency                                                      | 1 = date/status accurate; 0 = inaccurate or omitted; “No date reported” = absent in both abstract and summary.                    |
 
 
